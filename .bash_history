@@ -97,3 +97,14 @@ git status
 rm bashrc.txt
 clear
 git status
+clear
+git add.
+git add .
+git status
+clear
+git commit -m "doing practice in git"
+git status
+ls -al
+clear
+git log
+git show 2db091179482c4cdfc0c07169a1f07cff31d0e69
