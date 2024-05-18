@@ -108,3 +108,17 @@ ls -al
 clear
 git log
 git show 2db091179482c4cdfc0c07169a1f07cff31d0e69
+clear
+git status
+git add modified.txt
+git add .bash_history
+ls -al
+git commit -m "modified the file"
+git status
+clear
+git log
+git log --oneline
+git status
+git log
+clear
+git show
