@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1716010312,,"wq"
+|2,0,1716011745,,"wq"
 :qa!
 |2,0,1715965898,,"qa!"
 :wq!
@@ -34,26 +34,44 @@
 |3,0,10,0,1,0,1715967494,"th€ýahhhhh           €kb  "
 
 # File marks:
-'0  1  42  ~/Beartice.txt
-|4,48,1,42,1716010312,"~/Beartice.txt"
-'1  1  0  ~/timo.txt
-|4,49,1,0,1715967688,"~/timo.txt"
-'2  1  29  ~/demonstration.txt
-|4,50,1,29,1715965898,"~/demonstration.txt"
-'3  1  15  ~/demo.txt
-|4,51,1,15,1715965565,"~/demo.txt"
-'4  1  17  ~/batch
-|4,52,1,17,1715713537,"~/batch"
-'5  4  0  ~/ephrami/[Command Line]
-|4,53,4,0,1715713274,"~/ephrami/[Command Line]"
+'0  1  29  ~/beatrice.txt
+|4,48,1,29,1716011745,"~/beatrice.txt"
+'1  1  42  ~/Beartice.txt
+|4,49,1,42,1716010312,"~/Beartice.txt"
+'2  1  0  ~/timo.txt
+|4,50,1,0,1715967688,"~/timo.txt"
+'3  1  29  ~/demonstration.txt
+|4,51,1,29,1715965898,"~/demonstration.txt"
+'4  1  15  ~/demo.txt
+|4,52,1,15,1715965565,"~/demo.txt"
+'5  1  17  ~/batch
+|4,53,1,17,1715713537,"~/batch"
+'6  4  0  ~/ephrami/[Command Line]
+|4,54,4,0,1715713274,"~/ephrami/[Command Line]"
 
 # Jumplist (newest first):
+-'  1  29  ~/beatrice.txt
+|4,39,1,29,1716011745,"~/beatrice.txt"
+-'  1  42  ~/Beartice.txt
+|4,39,1,42,1716010312,"~/Beartice.txt"
 -'  1  42  ~/Beartice.txt
 |4,39,1,42,1716010312,"~/Beartice.txt"
 -'  1  0  ~/timo.txt
 |4,39,1,0,1715967688,"~/timo.txt"
 -'  1  0  ~/timo.txt
 |4,39,1,0,1715967688,"~/timo.txt"
+-'  1  0  ~/timo.txt
+|4,39,1,0,1715967688,"~/timo.txt"
+-'  1  0  ~/timo.txt
+|4,39,1,0,1715967688,"~/timo.txt"
+-'  1  29  ~/demonstration.txt
+|4,39,1,29,1715965898,"~/demonstration.txt"
+-'  1  29  ~/demonstration.txt
+|4,39,1,29,1715965898,"~/demonstration.txt"
+-'  1  29  ~/demonstration.txt
+|4,39,1,29,1715965898,"~/demonstration.txt"
+-'  1  29  ~/demonstration.txt
+|4,39,1,29,1715965898,"~/demonstration.txt"
 -'  1  29  ~/demonstration.txt
 |4,39,1,29,1715965898,"~/demonstration.txt"
 -'  1  29  ~/demonstration.txt
@@ -78,6 +96,54 @@
 |4,39,1,15,1715965565,"~/demo.txt"
 -'  1  15  ~/demo.txt
 |4,39,1,15,1715965565,"~/demo.txt"
+-'  1  15  ~/demo.txt
+|4,39,1,15,1715965565,"~/demo.txt"
+-'  1  15  ~/demo.txt
+|4,39,1,15,1715965565,"~/demo.txt"
+-'  1  15  ~/demo.txt
+|4,39,1,15,1715965565,"~/demo.txt"
+-'  1  15  ~/demo.txt
+|4,39,1,15,1715965565,"~/demo.txt"
+-'  1  15  ~/demo.txt
+|4,39,1,15,1715965565,"~/demo.txt"
+-'  1  15  ~/demo.txt
+|4,39,1,15,1715965565,"~/demo.txt"
+-'  1  15  ~/demo.txt
+|4,39,1,15,1715965565,"~/demo.txt"
+-'  1  15  ~/demo.txt
+|4,39,1,15,1715965565,"~/demo.txt"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
+-'  1  17  ~/batch
+|4,39,1,17,1715713537,"~/batch"
 -'  1  17  ~/batch
 |4,39,1,17,1715713537,"~/batch"
 -'  1  17  ~/batch
@@ -174,72 +240,25 @@
 |4,39,4,0,1715713274,"~/ephrami/[Command Line]"
 -'  4  0  ~/ephrami/[Command Line]
 |4,39,4,0,1715713274,"~/ephrami/[Command Line]"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
--'  1  0  ~/ephrami/demo.txt
-|4,39,1,0,1715707729,"~/ephrami/demo.txt"
+-'  4  0  ~/ephrami/[Command Line]
+|4,39,4,0,1715713274,"~/ephrami/[Command Line]"
+-'  4  0  ~/ephrami/[Command Line]
+|4,39,4,0,1715713274,"~/ephrami/[Command Line]"
+-'  4  0  ~/ephrami/[Command Line]
+|4,39,4,0,1715713274,"~/ephrami/[Command Line]"
+-'  4  0  ~/ephrami/[Command Line]
+|4,39,4,0,1715713274,"~/ephrami/[Command Line]"
+-'  4  0  ~/ephrami/[Command Line]
+|4,39,4,0,1715713274,"~/ephrami/[Command Line]"
 
 # History of marks within files (newest to oldest):
+
+> ~/beatrice.txt
+	*	1716011739	0
+	"	1	29
+	^	1	30
+	.	1	29
+	+	1	29
 
 > ~/Beartice.txt
 	*	1716010303	0
