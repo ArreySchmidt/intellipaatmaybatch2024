@@ -2,3 +2,4 @@ what shall i render to my lord
 updated by my collegue
 i can see better
 trying to understand git fetch
+git fetch traing
